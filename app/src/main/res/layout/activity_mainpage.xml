@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ana"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#34495e"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:ignore="SpeakableTextPresentCheck">
+
+
+    </ScrollView>
+
+    <Button
+
+        android:id="@+id/btn_renk"
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/btn3"
+        android:contentDescription="@string/app_name"
+        android:text="COLORS"
+        android:textColor="#e84393" />
+
+    <Button
+        android:id="@+id/btn_sayi"
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="70dp"
+        android:layout_toEndOf="@+id/btn_renk"
+        android:background="@drawable/download"
+        android:text="NUMBERS" />
+
+    <Button
+        android:id="@+id/btn_hayvan"
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:layout_below="@+id/btn_sayi"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="70dp"
+        android:layout_toEndOf="@+id/btn_doga"
+        android:background="@drawable/kurtlar"
+        android:text="ANIMALS" />
+
+    <Button
+        android:id="@+id/btn_doga"
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:layout_below="@+id/btn_renk"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/sakura"
+        android:text="NATURE" />
+
+    <Button
+        android:id="@+id/btn_tekno"
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:layout_below="@+id/btn_hayvan"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="70dp"
+        android:layout_toEndOf="@+id/btn_ulkee"
+
+        android:background="@drawable/teknoloji"
+        android:text="TECHNOLOGY"
+        android:textColor="#0091EA" />
+
+    <Button
+        android:id="@+id/btn_ulkee"
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:layout_below="@+id/btn_doga"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/dunya"
+        android:text="COUNTRY"
+        android:textColor="@color/white"
+
+        />
+
+    <Button
+        android:id="@+id/btn_yemek"
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:layout_below="@+id/btn_ulkee"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/yemekler"
+
+
+        android:text="FOODS" />
+
+    <Button
+        android:id="@+id/btn_meslek"
+        android:layout_width="150dp"
+        android:layout_height="75dp"
+        android:layout_below="@+id/btn_tekno"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="70dp"
+        android:layout_toEndOf="@+id/btn_yemek"
+        android:background="@drawable/zanaat"
+        android:contentDescription="@string/app_name"
+        android:text="JOBS"
+        android:textColor="@color/black" />
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/triple"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme" />
+
+    <Button
+        android:id="@+id/geri124"
+        android:layout_width="42dp"
+        android:layout_height="38dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="7dp"
+        android:background="@drawable/ic_baseline_arrow_back_24"
+        android:text="Button"
+        android:textColor="#C5CAE9"
+        android:textSize="0dp"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <TextView
+        android:id="@+id/textView151"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="132dp"
+        android:fontFamily="@font/delius"
+        android:text="Learn English"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/beyaz.xml" value="0.195" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/black.xml" value="0.195" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/btn3.xml" value="0.195" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/butonsekil.xml" value="0.191" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/green.xml" value="0.195" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/gri.xml" value="0.195" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.195" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/kahve.xml" value="0.195" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/kirmizi.xml" value="0.195" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/mavi.xml" value="0.195" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/mor.xml" value="0.195" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/orange.xml" value="0.195" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/pembe.xml" value="0.195" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/sari.xml" value="0.195" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/drawable/triple.xml" value="0.195" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_activityrenk.xml" value="0.2" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_animals.xml" value="0.25" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_ayarlar.xml" value="0.25" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_colors.xml" value="0.25" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_country.xml" value="0.2" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_doga.xml" value="0.22" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_dogaa2.xml" value="0.25" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_food.xml" value="0.1634963768115942" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_hayvanlar.xml" value="0.22" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_jobs.xml" value="0.2" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_main.xml" value="0.2527646129541864" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_mainpage.xml" value="0.33" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_meslekler.xml" value="0.2" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_nature.xml" value="0.25" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_nature2.xml" value="0.25" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_numbers.xml" value="0.2" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_numbers2.xml" value="0.2" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_sayilar.xml" value="0.25" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_sayilar2.xml" value="0.25" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_tech.xml" value="0.2" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_teknoloji.xml" value="0.1644021739130435" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_ulkeler.xml" value="0.22" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/layout/activity_yemekler.xml" value="0.18" />
+        <entry key="..\:/Users/berkk/AndroidStudioProjects/LearnEnglish/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.195" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
